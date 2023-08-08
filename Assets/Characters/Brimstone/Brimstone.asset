@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e669c11d35667e647b2f4b8505861e8a, type: 3}
+  m_Name: Brimstone
+  m_EditorClassIdentifier: 
+  id: 3
+  displayName: Brimstone
+  icon: {fileID: 21300000, guid: 55942cd9c77366a479b8d20f038ea805, type: 3}
+  introPrefab: {fileID: 4831121803830939820, guid: e60699e85eca52d49aa117296dbe1d79,
+    type: 3}
+  gameplayPrefab: {fileID: 2296553595940837057, guid: da673c3298e46054896d2e12dbdccb4b,
+    type: 3}
